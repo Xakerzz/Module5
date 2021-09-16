@@ -3,5 +3,6 @@ public class TestGit {
         System.out.println("Hello World!");
         System.out.println("WTF");
         System.out.println("NewBranch1");
+        System.out.println();
     }
 }
